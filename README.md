@@ -3,12 +3,12 @@ Registro de avances y repositorio del trabajo parcial y final realizado en el cu
 
 ## Integrantes
 
-Lucía Heredia
+Lucía Heredia Moscoso
 
-Jorge Kawamura
+Jorge Kawamura Solis
 
-Joaquín Sánchez
+Joaquín Sánchez Chávez
 
-Daniel Santillán
+Daniel Santillán Ávila
 
-Luis Vásquez
+Luis Vásquez Solis Goycochea
