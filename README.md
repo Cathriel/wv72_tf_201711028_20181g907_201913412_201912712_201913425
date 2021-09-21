@@ -4,7 +4,11 @@ Registro de avances y repositorio del trabajo parcial y final realizado en el cu
 ## Integrantes
 
 Lucía Heredia
+
 Jorge Kawamura
+
 Joaquín Sánchez
+
 Daniel Santillán
+
 Luis Vásquez
