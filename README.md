@@ -4,7 +4,6 @@ Registro de avances y repositorio del trabajo parcial y final realizado en el cu
 ##Integrantes
 
 Lucía Heredia
-Andreluis Ingaroca
 Jorge Kawamura
 Joaquín Sánchez
 Daniel Santillán
