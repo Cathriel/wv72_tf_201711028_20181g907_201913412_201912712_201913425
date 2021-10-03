@@ -12,3 +12,6 @@ Joaquín Sánchez Chávez
 Daniel Santillán Ávila
 
 Luis Vásquez Solis Goycochea
+
+
+Link al video de Reporte de Actividades: https://youtu.be/xDXO0AR8SNA
