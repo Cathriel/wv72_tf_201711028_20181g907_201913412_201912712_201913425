@@ -1,4 +1,4 @@
-# Reporte de Actividades Hito 1
+# Reporte de Actividades Trabajo Parcial
 
 Nombre | Generar el Dataset | Definir espacio de búsqueda | Análisis preliminar de la complejidad de algoritmo | Reporte de Actividades | Elaboración de video
 -|-|-|-|-|-
