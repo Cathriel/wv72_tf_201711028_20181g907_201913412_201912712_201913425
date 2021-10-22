@@ -23,3 +23,6 @@ de los nodos sino también asignarle un valor que corresponda al tipo de nodo qu
 
 Donde el primer valor refiere a donde se dirige al arista, miestras que el segundo valor define el tipo de nodo que representa. Por ejemplo, 1: nodo de intersección cualquiera,
 2: nodo de entrega y 3: nodo de distribución.
+
+Comnsideramos también que podemos mejorar la propueta a medida que implementemos el código, pero que hasta le momento ya tenemos una idea clara de como representar 
+gráficamente nuestro grafo.
