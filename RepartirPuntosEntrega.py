@@ -4,7 +4,7 @@ def DBP(a,b):
   x2, y2=b
   return abs(x1-x2)+ abs(y1-y2)
 
-#Se crean dos grupos, uno para los puntos de entrega y otro para los puntos extras (calles)
+#Se crean dos grupos, uno para los puntos de entrega y otro para los puntos extras (calles que no son puntos de entrega)
 group = [-1]*len(pointsEntrega)
 group2 = [-1]*len(extraPoints)
 
