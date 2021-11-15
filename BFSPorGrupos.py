@@ -50,7 +50,6 @@ def bfsForGroups(G, s,pos):
   parent = [None]*n
   queue = [pos]
   visited[pos] = True
-  contador = 0
 
   while queue:
     u = queue.pop(0)
@@ -59,8 +58,6 @@ def bfsForGroups(G, s,pos):
         visited[G[u][v]] = True
         parent[G[u][v]] = u
         a = G[u][v] 
-        if G[a][-2] == 1:
-          contador +=1
         queue.append(G[u][v])
 
   return parent
