@@ -3,15 +3,17 @@ Registro de avances y repositorio del trabajo parcial y final realizado en el cu
 
 ## Integrantes
 
-Lucía Heredia Moscoso
+- Lucía Heredia Moscoso
 
-Jorge Kawamura Solis
+- Jorge Kawamura Solis
 
-Joaquín Sánchez Chávez
+- Joaquín Sánchez Chávez
 
-Daniel Santillán Ávila
+- Daniel Santillán Ávila
 
-Luis Vásquez Solis Goycochea
+- Luis Vásquez Solis Goycochea
 
 
 Link al video de Reporte de Actividades: https://youtu.be/xDXO0AR8SNA
+
+Link al video de Exposición Final: https://youtu.be/gNImQSJ-7x4 
